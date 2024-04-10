@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>[company_name] desde otro punto de vista</title>
+        <style>
+            body, html {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, sans-serif;
+                color: #333;
+            }
+            .container {
+                max-width: 600px;
+                margin: 20px auto;
+                padding: 20px;
+                background-color: white;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+                display: block;
+                margin: 20px auto;
+            }
+            .text-section {
+                margin: 20px 0;
+            }
+            .text-section h1 {
+                color: #fcbe01;
+            }
+            .cta-button {
+                display: inline-block;
+                background-color: #0056b3;
+                color: #ffffff;
+                padding: 10px 20px;
+                text-align: center;
+                text-decoration: none;
+                border-radius: 5px;
+                font-weight: bold;
+                margin: 20px 0;
+            }
+            .footer {
+                text-align: center;
+                font-size: 14px;
+                color: #999;
+                margin-top: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="text-section">
+                <h1>Otro punto de vista</h1>
+                <p>¡Soy Javier, encantado! Verás, me he tomado algo de libertad con uno de los productos de <b>[company_name]</b>.</p>
+                <p>
+                    Sé que hacer buenas fotos para un producto es caro, lento y difícil
+                    (especialmente cuando son muebles que pesan más que un collar de melones).
+                </p>
+                <p>Por eso, y porque me dedico al desarrollo software, quería enseñarte unas imágenes.</p>
+            </div>
+            
+            <h3>Esta es la foto original del producto de [company_name]:</h3>
+            <img
+                src="sample_assets/product-image-800.jpg"
+                srcset="
+                    sample_assets/product-image-400.jpg 400w,
+                    sample_assets/product-image-800.jpg 800w
+                "
+                sizes="(max-width: 400px) 400px, 800px"
+                alt="Product Image"
+            >
+
+            <h3>Y aquí está en un espacio generado con inteligencia artificial:</h3>
+            <img
+                src="sample_assets/ai-generated-space-800.jpg"
+                srcset="
+                    sample_assets/ai-generated-space-400.jpg 400w,
+                    sample_assets/ai-generated-space-800.jpg 800w
+                "
+                sizes="(max-width: 400px) 400px, 800px"
+                alt="AI Generated Image"
+            >
+            
+            <div class="text-section">
+                <p>¡Va en serio! Perfecta para mejorar un <b>catálogo digital</b> o para publicar en <b>redes sociales</b>.</p>
+                <p>
+                    ¿Te interesa? Siéntete libre de <b>agendar una cita conmigo</b> para contarte los detalles: [appointment_link]
+                    También puedes contestarme a este correo.
+                </p>
+                <p>
+                    Si crees que debería contarle esto a otra persona ¡me encantaría!
+                    No dudes en reenviarle este email o compartir conmigo su contacto.
+                </p>
+                <p>¡Gracias por todo!</p>
+                <p>Javier</p>
+                <br>
+
+                <p>P.D. También tengo una web para hacer diseño de interiores en segundos, por si te interesa:</p>
+            </div>
+
+            <a href="https://tecoration.com" target="_blank">
+                <img
+                    src="sample_assets/logo-footer-800.png"
+                    srcset="
+                        sample_assets/logo-footer-400.png 400w,
+                        sample_assets/logo-footer-800.png 800w
+                    "
+                    sizes="(max-width: 400px) 400px, 800px"
+                    alt="Web logo footer"
+                >
+            </a>
+        </div>
+    </body>
+</html>
