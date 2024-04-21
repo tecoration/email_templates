@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{company_name}} desde otro punto de vista</title>
+        <style>
+            body, html {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, sans-serif;
+                color: #333;
+                text-align: left;
+            }
+            .container {
+                max-width: 600px;
+                margin: 20px auto;
+                padding: 20px;
+                background-color: white;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+                display: block;
+                margin: 20px auto;
+            }
+            .text-section {
+                margin: 20px 0;
+            }
+            .text-section h1 {
+                color: #fcbe01;
+            }
+            .footer {
+                font-size: 14px;
+                color: #999;
+                margin-top: 20px;
+            }
+            .footer a {
+                color: #0056b3;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="text-section">
+                <h1>Otro punto de vista</h1>
+                <p>¡Hola {{personal_name}}! Soy Javier de Tecoration, nos conocimos en la última feria de Intergift en Madrid.</p>
+                <p>Allí hablamos sobre la posibilidad de crear diseños de interiores con inteligencia artificial para vuestros productos.</p>
+                <p>
+                    Sé que hacer buenas fotos para un producto es caro, lento y difícil
+                    (especialmente cuando son muebles que pesan más que un collar de melones).
+                </p>
+                <p>Así que aquí tienes una propuesta.</p>
+            </div>
+            
+            <h3>Esta es la foto original del producto de {{company_name}}:</h3>
+            <a href={{product_image_800}}>
+                <img
+                    src={{product_image_800}}
+                    srcset="
+                        {{product_image_400}} 400w,
+                        {{product_image_800}} 800w
+                    "
+                    sizes="(max-width: 400px) 400px, 800px"
+                    alt="Haz click para ver el producto"
+                >
+            </a>
+            
+
+            <h3>Y aquí está en un espacio generado con inteligencia artificial:</h3>
+            <a href="{{space_image_800}}">
+                <img
+                    src="{{space_image_800}}"
+                    srcset="
+                        {{space_image_400}} 400w,
+                        {{space_image_800}} 800w
+                    "
+                    sizes="(max-width: 400px) 400px, 800px"
+                    alt="Haz click aquí para ver el espacio"
+                >
+            </a>
+            
+            <div class="text-section">
+                <p>Perfecta para mejorar un <b>catálogo digital</b> o para publicar en <b>redes sociales</b>.</p>
+                <p>La clave es que se obtiene <b>muchísimo más rápido</b> y por una <b>fracción del coste</b> del método tradicional.</p>
+                <p>
+                    ¿Te interesa? Siéntete libre de <b><a href="{{appointment_link}}">agendar una cita conmigo</a></b> para contarte los detalles.
+                    También puedes contestarme a este correo.
+                </p>
+                <p>¡Gracias por todo!</p>
+            </div>
+
+            <div class="footer">
+                <p>
+                    <strong>Javier Miralles de Miguel</strong><br>
+                    Email: <a href="mailto:javier.miralles@tecoration.com">javier.miralles@tecoration.com</a><br>
+                    Web: <a href="https://tecoration.com" target="_blank">tecoration.com</a><br>
+                </p>
+                <p>© 2024 Tecoration. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -14,7 +14,7 @@ async function sendEmail() {
             const msg = {
                 to: entry.to,
                 from: process.env.FROM_EMAIL,
-                templateId: process.env.TEMPLATE_ID,
+                templateId: entry.template_id,
                 dynamicTemplateData: entry,
             };
     
