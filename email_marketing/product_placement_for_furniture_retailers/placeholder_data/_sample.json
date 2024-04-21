@@ -1,0 +1,54 @@
+{
+    "Becara": {
+        "to": "geosss128@gmail.com",
+        "template_id": "d-5885760fa5eb4ad38e932b99af1e3145",
+        "company_name": "Becara",
+        "product_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FBecara%2Fbecara_sofa_OL00931_input_0_800.jpg?alt=media&token=b9d2c612-0915-4613-91dd-011fbd6ac123",
+        "product_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FBecara%2Fbecara_sofa_OL00931_input_0_400.jpg?alt=media&token=b9d2c612-0915-4613-91dd-011fbd6ac123",
+        "space_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FBecara%2Fbecara_sofa_OL00931_output_0_800.jpg?alt=media&token=b954c5f8-13e7-4bc2-8c63-e42874714745",
+        "space_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FBecara%2Fbecara_sofa_OL00931_output_0_400.jpg?alt=media&token=b954c5f8-13e7-4bc2-8c63-e42874714745",
+        "appointment_link": "https://calendar.app.google/2JCnYWeoRVQmVVwu9"
+    },
+    "LDK_Garden": {
+        "to": "geosss128@gmail.com",
+        "template_id": "d-5885760fa5eb4ad38e932b99af1e3145",
+        "company_name": "LDK Garden",
+        "product_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FLDK_Garden%2Fldkgarden_sillonexterior_83294_input_0_800.jpg?alt=media&token=3e329d88-2d32-4566-ad0f-020fcd8195e5",
+        "product_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FLDK_Garden%2Fldkgarden_sillonexterior_83294_input_0_400.jpg?alt=media&token=3e329d88-2d32-4566-ad0f-020fcd8195e5",
+        "space_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FLDK_Garden%2Fldkgarden_sillonexterior_83294_output_0_800.jpg?alt=media&token=b1becc4d-03ca-442c-9bd6-20ba12742bc1",
+        "space_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FLDK_Garden%2Fldkgarden_sillonexterior_83294_output_0_400.jpg?alt=media&token=b1becc4d-03ca-442c-9bd6-20ba12742bc1",
+        "appointment_link": "https://calendar.app.google/2JCnYWeoRVQmVVwu9"
+    },
+    "Manuel_Larraga": {
+        "to": "geosss128@gmail.com",
+        "template_id": "d-5885760fa5eb4ad38e932b99af1e3145",
+        "company_name": "Manuel Larraga",
+        "product_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FManuel_Larraga%2Fmanuellarraga_sofa_trento_input_0_800.jpg?alt=media&token=37f33765-41a3-4353-8489-34b4665718bb",
+        "product_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FManuel_Larraga%2Fmanuellarraga_sofa_trento_input_0_400.jpg?alt=media&token=37f33765-41a3-4353-8489-34b4665718bb",
+        "space_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FManuel_Larraga%2Fmanuellarraga_sofa_trento_output_0_800.jpg?alt=media&token=02fc9f71-b2af-46ed-91fb-f721a16ddf7c",
+        "space_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FManuel_Larraga%2Fmanuellarraga_sofa_trento_output_0_400.jpg?alt=media&token=02fc9f71-b2af-46ed-91fb-f721a16ddf7c",
+        "appointment_link": "https://calendar.app.google/2JCnYWeoRVQmVVwu9"
+    },
+    "Vical": {
+        "to": "geosss128@gmail.com",
+        "template_id": "d-b1cb91ece6604f56ba09442d577c1d37",
+        "personal_name": "Nacho",
+        "company_name": "Vical",
+        "product_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FVical%2Fvical_mesacentro_32958_input_0_800.jpg?alt=media&token=5b2998b4-8367-4087-81f6-30b50d8fc342",
+        "product_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FVical%2Fvical_mesacentro_32958_input_0_400.jpg?alt=media&token=5b2998b4-8367-4087-81f6-30b50d8fc342",
+        "space_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FVical%2Fvical_mesacentro_32958_output_0_800.jpg?alt=media&token=e569ecbc-ae44-4d0c-810c-34d21a636aa8",
+        "space_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FVical%2Fvical_mesacentro_32958_output_0_400.jpg?alt=media&token=e569ecbc-ae44-4d0c-810c-34d21a636aa8",
+        "appointment_link": "https://calendar.app.google/2JCnYWeoRVQmVVwu9"
+    },
+    "VP_Interiorismo": {
+        "to": "geosss128@gmail.com",
+        "template_id": "d-b1cb91ece6604f56ba09442d577c1d37",
+        "personal_name": "Paula",
+        "company_name": "VP Interiorismo",
+        "product_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FVP_Interiorismo%2Fvpinteriorismo_sillon_34a2099_input_0_800.jpg?alt=media&token=d26a9637-f762-4d58-b93d-cf0541ef8251",
+        "product_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FVP_Interiorismo%2Fvpinteriorismo_sillon_34a2099_input_0_400.jpg?alt=media&token=d26a9637-f762-4d58-b93d-cf0541ef8251",
+        "space_image_800": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FVP_Interiorismo%2Fvpinteriorismo_sillon_34a2099_output_0_800.jpg?alt=media&token=4cc28b42-2c20-414e-b204-cd422a4bec73",
+        "space_image_400": "https://firebasestorage.googleapis.com/v0/b/tecoration-prod-public/o/email_marketing%2FVP_Interiorismo%2Fvpinteriorismo_sillon_34a2099_output_0_400.jpg?alt=media&token=4cc28b42-2c20-414e-b204-cd422a4bec73",
+        "appointment_link": "https://calendar.app.google/2JCnYWeoRVQmVVwu9"
+    }
+}
